@@ -3,7 +3,7 @@ Welcome to .NET Core Documentation
 
 This is the repository of .NET Core documentation powered by MSDN Open Publishing.
 
-##Can I make edits to thos file?
+##Can I make edits to this file?
 franla@microsoft.com
 
 Quick Start
