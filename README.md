@@ -7,11 +7,8 @@ This is the repository of .NET Core documentation powered by MSDN Open Publishin
 I, franla@microsoft.com, am trying to add to this repo.
 
 ###Section 3 
-In this section I re-itrerate the need to make changes to the repo. 
+In this section I re-itrerate the need to make changes to the repo. franla@microsoft.com
 
-_franla@microsoft.com_
-
-Add another line of meaningless test and push it.
 
 Quick Start
 -----------
