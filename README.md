@@ -14,6 +14,12 @@ In this section I re-itrerate the need to make changes to the repo.
 Add another line under the italics.
 ----------------------------------
 
+##heading 2
+
+###heading 3
+
+####heading 4
+
 Quick Start
 -----------
 
